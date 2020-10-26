@@ -3,6 +3,7 @@
 [![Pypi](https://img.shields.io/pypi/v/submitit)](https://pypi.org/project/submitit/)
 [![conda-forge](https://img.shields.io/conda/vn/conda-forge/submitit)](https://anaconda.org/conda-forge/submitit)
 # Submit it!
+Our fork of submitit for SLURM/MPI customization.
 
 ## What is submitit?
 
